@@ -1,0 +1,8 @@
+rgname = "ACR_RG"
+rglocation = "eastus"
+prefix = "ACR"
+vnet_cidr_prefix = "10.10.0.0/16"
+subnet1_cidr_prefix = "10.10.1.0/24"
+acr_name	        = "ACRRepo5697"
+keyvaultname        = "ACRKeyVault5697"
+# example             =  "ACRPassword"
